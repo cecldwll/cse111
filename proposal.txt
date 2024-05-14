@@ -1,0 +1,37 @@
+CSE 111 Proposal for a Student Chosen Program
+
+    (This is a proposal. All proposals are written with our best
+    knowledge at the beginning of a project. As we progress from the
+    beginning to the end of a project, we gain more knowledge, and we
+    change some of our proposed ideas. This is part of completing any
+    project and is fine.  However, we still must write a proposal so
+    that our teachers or supervisors know what we intend to do. Please
+    answer each of the following questions to the best of your
+    knowledge.)
+
+1. What is the title of your program?
+    Currency Calculator
+
+2. What real-world problem will your program address or help to solve?
+    This program can make it quicker and easier to convert money/currency value between two countries.
+    You won't have to do things like open a new tab, or type in something like 'currency exchange rate'. (Just run this program)
+
+3. What will you learn from developing this program?
+    This will be an important test to help me figure out a program like this on my own. It can be a lot simpler to follow the instructions
+    in our weekly assignments. This is a project that I have sought out on my own, will plan, and figure out on my own too.
+
+4. What Python modules will your program use?
+    
+    I will probably use math, pystest, and tkinter.
+
+5. Will you separate your Python program into functions that each
+perform a single task?
+
+    I will definitely have multiple different functions in my program. I will probably have a function to get inputs and print outputs,
+    a function to find/hold different countries/currencys/rates, and a function to do the math. Then my test programs with have different math functions and
+    such to test different inputs (countries and amounts).
+
+6. Will you write test functions to test at least two of your program
+functions?
+    Yes, I will be. The best way to test my skills in both program testing and program writing, is to write test functions.
+

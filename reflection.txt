@@ -1,0 +1,20 @@
+Please respond thoroughly (at least two sentences for each question) to
+the following three questions.
+
+1. Describe an experience you had this semester where you saw the power of
+functions.
+    Being able to organize code into functions has been a bit of a game changer in comparison to what I learned in the previous python class. 
+    Functions in Python help you save and reuse code easily, making your programs easier to write and understand. They let you break down big problems into smaller, manageable pieces.
+
+
+2. In your judgment, what is the value of test functions?
+    Test functions in Python are crucial for making sure your code works as expected by checking each part bit by bit. They help find mistakes early on, making it easier to write reliable programs.
+
+
+3. Describe your process for troubleshooting and fixing a program that
+has a problem. What is one thing you can do to improve your process?
+    Honestly, I am not sure if I have much of a process, I just kind of look at the area around where the error message is directing me and try to make changes or understand the problem. 
+    If I need to, then I will look things up for guidance or clarity. To improve my process, I really probably just need experience and to make sure I am throughouh. Also, if I wrote more
+    exceptions and test functions, I could probably solve or avoid any problems faster and more simply.
+
+
